@@ -74,7 +74,3 @@ docker compose up --build
 ```
 
 Open http://localhost:8501. The API is available at http://localhost:8000. Keep the API key private; do not commit it or put it in a public file.
-
-## License
-
-No license file is currently included. Add a license before reusing or redistributing this code.
